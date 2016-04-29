@@ -28,6 +28,6 @@ def generator():
 #call the function until it has !zero names.
 for names in list1:
  generator()
- 
-for j in listTemp:
- print j 
+#printing the names of temporary list. 
+for usedName in listTemp:
+ print usedName 
